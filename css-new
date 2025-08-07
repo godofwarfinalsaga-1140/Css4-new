@@ -1,5 +1,4 @@
-<style>
-        /* Custom styles for Inter font and smooth scrolling */
+
         body {
             font-family: 'Inter', sans-serif;
             scroll-behavior: smooth;
@@ -49,5 +48,4 @@
         .concept-description {
             color: #475569; /* Slate 700 */
             line-height: 1.6;
-        }
-    </style>
+        {
