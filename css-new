@@ -1,5 +1,4 @@
-
-        body {
+Dark gray text */body {
             font-family: 'Inter', sans-serif;
             scroll-behavior: smooth;
             background-color: #f8fafc; /* Light blue-gray background */
@@ -48,4 +47,5 @@
         .concept-description {
             color: #475569; /* Slate 700 */
             line-height: 1.6;
-        {
+        }
+        /* اینجا باید آکولاد بسته برای بلوک قبلی باشد، نه آکولاد باز */
